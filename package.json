@@ -1,24 +1,27 @@
 {
   "name": "bloodline",
   "version": "1.0.0",
-  "description": "Proper inheritance",
-  "main": "bloodline.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jhermsmeier/node-bloodline.git"
-  },
+  "description": "Proper inheritance in JavaScript",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de/)",
+  "license": "MIT",
   "keywords": [
     "inherit",
+    "inherits",
     "derive",
     "inheritance"
   ],
-  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com>",
-  "license": "MIT",
+  "main": "bloodline.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/jhermsmeier/node-bloodline",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhermsmeier/node-bloodline.git"
+  },
   "bugs": {
     "url": "https://github.com/jhermsmeier/node-bloodline/issues"
   },
-  "homepage": "https://github.com/jhermsmeier/node-bloodline"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
