@@ -1,6 +1,6 @@
 {
   "name": "bloodline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "description": "Proper inheritance in JavaScript",
   "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
